@@ -1,3 +1,4 @@
+#Currency Converter
 RATE = {"Canada": 1.56,"USA": 1.09, "Cambodia": 4650, "United Kingdom": 0.87 }
 
 SALARY = {"Canada": 56000,"USA": 45000,"Cambodia": 7649856,"United Kingdom": 45423}
