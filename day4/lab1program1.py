@@ -1,3 +1,4 @@
+#BMI and Health Report Generator
 from datetime import datetime
 
 n = input("Patient's name: ")
