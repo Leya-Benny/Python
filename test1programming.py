@@ -1,3 +1,4 @@
+#Shopping Cart — Add, search, delete, purchase items.
 shoppingCart = {}
 #menu
 def display_menu():
