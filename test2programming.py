@@ -1,3 +1,4 @@
+#Phone Directory — Add, search, update, delete, sort phone records.
 #menuLeya
 def display_menu():
     print("\nWELCOME TO GRANN'S PHONE DIRECTORY")
