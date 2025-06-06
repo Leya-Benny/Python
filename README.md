@@ -94,6 +94,6 @@ This repository contains various Python programs I wrote to practice **basic pro
 
 ---
 
-> ✨ _This repo is a simple practice collection and will continue to grow with more Python exercises and projects!_
+> ✨ _This repo is a simple practice collection.
 
 ---
