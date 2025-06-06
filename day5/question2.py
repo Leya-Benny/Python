@@ -1,3 +1,4 @@
+#Color Mixer
 RED = "red"
 BLUE = "blue"
 YELLOW = "yellow"
