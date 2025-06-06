@@ -1,3 +1,4 @@
+#One Dollar Game
 PENNY_VALUE = 1
 NICKEL_VALUE = 5
 DIME_VALUE = 10
