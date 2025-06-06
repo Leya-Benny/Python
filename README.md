@@ -16,9 +16,9 @@ This repository contains various Python programs I wrote to practice **basic pro
 - Next Date Calculator
 - Right Justify a String
 - Roulette Color and Category Checker
+- Grade Calculator
 
 ### ✅ Day 3
-- Grade Calculator
 - Box Grid Printer
 - Perfect Number Checker
 
