@@ -1,4 +1,4 @@
-# Write a Python program to reverse a string.
+# Perfect Number Checker
 def perfect(num):
     if num <= 1:
         return False
