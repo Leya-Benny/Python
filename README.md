@@ -1,45 +1,58 @@
 # 🐍 Python Practice Programs
 
-This repository contains various Python programs I wrote to practice basic programming concepts, problem solving, and small projects.
+This repository contains various Python programs I wrote to practice **basic programming concepts**, **problem solving**, and build **small projects**.
+
+---
 
 ## 📂 Contents
 
-### Day 1
-- Volume of a sphere
-- Running time calculation
+### ✅ Day 1
+- Volume of a Sphere
+- Running Time Calculation
 
-### Day 2
-- Sum of three numbers (with conditions)
-- Number range classification
-- Next date calculator
-- Right justify a string
-- Roulette color and category checker
+### ✅ Day 2
+- Sum of Three Numbers (with conditions)
+- Number Range Classification
+- Next Date Calculator
+- Right Justify a String
+- Roulette Color and Category Checker
 
-### Day 3
-- Grade calculator
-- Box grid printer
-- Perfect number checker
+### ✅ Day 3
+- Grade Calculator
+- Box Grid Printer
+- Perfect Number Checker
 
-### Day 4
-- BMI and health report generator
-- Simple calculator
-- One dollar game
+### ✅ Day 4
+- BMI and Health Report Generator
+- Simple Calculator
+- One Dollar Game
 
-### Day 5
-- Date validation
-- Color mixer
-- Currency converter
+### ✅ Day 5
+- Date Validation
+- Color Mixer
+- Currency Converter
 
-### Test Programs
-- 🛍️ **Shopping Cart** — Simple shopping cart with add, search, delete, purchase
-- 📞 **Phone Directory** — Phonebook with add, search, update, delete, sort
+### ✅ Day 8
+- Average Temperature Over Years
+- Calorie Intake Tracker
+- Triangle Pattern Printer
+- Descending Order Sort
 
-## 📌 Purpose
+### 🛍️ Test Programs
+- **Shopping Cart** — Add, search, delete, purchase items.
+- **Phone Directory** — Add, search, update, delete, sort phone records.
 
-- Practice Python basics
-- Practice conditional statements, loops, functions, string formatting
-- Build small projects for learning
-- Organize and improve my coding skills
+---
+
+## 🎯 Purpose
+
+- Practice **Python basics**
+- Practice **conditional statements**, **loops**, **functions**, **string formatting**
+- Build **mini projects**
+- **Organize** and **improve coding skills**
+- Prepare for **future Python projects**
+
+---
 
 ## 🚀 How to Run
 
@@ -47,10 +60,12 @@ This repository contains various Python programs I wrote to practice basic progr
     ```bash
     git clone https://github.com/Leya-Benny/Python.git
     ```
+
 2. Navigate to the directory:
     ```bash
     cd Python
     ```
+
 3. Run any program using Python:
     ```bash
     python3 filename.py
@@ -58,13 +73,27 @@ This repository contains various Python programs I wrote to practice basic progr
 
 ---
 
-## 💻 Author
+## 📚 Learning Goals
 
-**Leya Benny**  
-[LinkedIn](https://www.linkedin.com/in/leya-benny)  
-[GitHub](https://github.com/Leya-Benny)
+- ✅ Learn Python syntax
+- ✅ Practice functions and modular code
+- ✅ Understand loops and conditionals
+- ✅ Work with lists and strings
+- ✅ Build simple text-based apps
+- ✅ Practice input/output operations
+- ✅ Use sorting algorithms and data processing
 
 ---
 
-> ✨ This repo is a simple practice collection and will continue to grow with more Python exercises!
+## 👩‍💻 Author
 
+**Leya Benny**  
+📧 [leyabenny10@gmail.com](mailto:leyabenny10@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/leya-benny)  
+💻 [GitHub](https://github.com/Leya-Benny)
+
+---
+
+> ✨ _This repo is a simple practice collection and will continue to grow with more Python exercises and projects!_
+
+---
